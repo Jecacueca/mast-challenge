@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 1
+  user_id: 1
+  listing_id: 1
+  action: MyString
+  listing_name: MyString
+
+two:
+  date: 1
+  user_id: 1
+  listing_id: 1
+  action: MyString
+  listing_name: MyString
